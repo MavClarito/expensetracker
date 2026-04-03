@@ -41,6 +41,7 @@ app-example
 # generated native folders
 /ios
 /android
+/.vscode
 
 # Production builds
 .expo-shared/
